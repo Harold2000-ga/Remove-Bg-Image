@@ -13,8 +13,8 @@ This application is built using advanced AI technology to quickly and easily rem
   <h2>URL✔</h2>
 
   <p>https://remove-background-image.vercel.app/</p>
-  
-<ul><h2>Technologies</h2>
+  <h2>Technologies</h2>
+<ul>
 
   <li>React Js</li>
   <li>Tailwind CSS</li>
